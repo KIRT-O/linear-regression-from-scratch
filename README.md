@@ -1,0 +1,1 @@
+A simple Linear Regression model implemented from scratch using Python to understand gradient descent and loss.
